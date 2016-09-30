@@ -1,0 +1,7 @@
+
+
+1.启动JMS
+
+./activeMq start
+
+2.run testcase
